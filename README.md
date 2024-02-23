@@ -1,5 +1,5 @@
 # Gestor-De-Boletos-Para-Autobus
-Un gestor de venta de boletos de autobus usando en .Net6 y SQL Server con el ORM Entity Framework.
+Un gestor de venta de boletos de autobus en .Net, usando como motor de base de datos SQL Server con el ORM Entity Framework.
 
 En este proyecto se ha hecho usando WinForm posee un formulario para registro de nuevos usuarios
 un formulario para el login y un panel de compra tambien implementa un panel de administrador 
