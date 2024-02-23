@@ -1,0 +1,92 @@
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Sistema De Boletos SV.exe
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Sistema De Boletos SV.deps.json
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Sistema De Boletos SV.runtimeconfig.json
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Sistema De Boletos SV.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Sistema De Boletos SV.pdb
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Azure.Core.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Azure.Identity.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\EntityFramework.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Humanizer.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\itext.barcodes.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\itext.forms.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\itext.io.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\itext.kernel.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\itext.layout.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\itext.pdfa.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\itext.sign.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\itext.styledxmlparser.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\itext.svg.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\itext.commons.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\System.Memory.Data.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\System.Text.Json.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\bin\Release\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\SistemaDeBuses.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\SistemaDeBuses.Admin.resources
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\SistemaDeBuses.Admin_form.Perfil_admin.resources
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\SistemaDeBuses.Admin_form.RutaNueva.resources
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\SistemaDeBuses.Compras.resources
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\SistemaDeBuses.Login.resources
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\SistemaDeBuses.Properties.Resources.resources
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\SistemaDeBuses.Registro.resources
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\SistemaDeBuses.User.resources
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\SistemaDeBuses.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\SistemaDeBuses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\SistemaDeBuses.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\SistemaDeBuses.AssemblyInfo.cs
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\SistemaDeBuses.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\SistemaDeBuses.csproj.CopyComplete
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\Sistema De Boletos SV.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\refint\Sistema De Boletos SV.dll
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\Sistema De Boletos SV.pdb
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\SistemaDeBuses.genruntimeconfig.cache
+C:\Users\HP\Desktop\INGENERIA EN DESAROLLO DE SOFTWARE\PROGRAMACIÓN ESTRUCTURADA\SistemaDeBuses\SistemaDeBuses\obj\Release\net6.0-windows\ref\Sistema De Boletos SV.dll

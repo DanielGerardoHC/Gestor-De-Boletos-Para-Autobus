@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeBuses", "SistemaDeBuses\SistemaDeBuses.csproj", "{DE104D50-97D1-4F46-A840-A7DCED82350F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE104D50-97D1-4F46-A840-A7DCED82350F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE104D50-97D1-4F46-A840-A7DCED82350F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE104D50-97D1-4F46-A840-A7DCED82350F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE104D50-97D1-4F46-A840-A7DCED82350F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3C68198-C3E3-4BA7-8B30-40493743E36F}
+	EndGlobalSection
+EndGlobal
